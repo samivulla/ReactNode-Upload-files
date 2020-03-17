@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+https://malcoded.com/posts/react-file-upload/
+
+
 In the project directory, you can run:
 
 ### `npm start`
